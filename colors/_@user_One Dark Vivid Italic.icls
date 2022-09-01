@@ -3,7 +3,7 @@
     <property name="created">2022-08-24T02:50:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-24T03:09:42</property>
+    <property name="modified">2022-09-01T19:16:02</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -1227,12 +1227,17 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="e2bd7e" />
+        <option name="FOREGROUND" value="e39922" />
       </value>
     </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
+      </value>
+    </option>
+    <option name="JS.TYPE_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="e89f17" />
       </value>
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
